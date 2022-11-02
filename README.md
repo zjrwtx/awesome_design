@@ -1,5 +1,5 @@
 
-###2022最火AIGC_Ai绘画资源汇总
+# 2022最火AIGC_Ai绘画资源汇总
 1、really nice的AI绘画资源汇总：<br />[https://github.com/hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
 
 2、Stable diffusion online：<br />[https://stablediffusionweb.com/#demo](https://stablediffusionweb.com/#demo)
