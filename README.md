@@ -1,2 +1,75 @@
-# awesome_paper
-分享和解读含自然科学、商业投资、人文社科与管理等前沿资讯或研究paper
+综合
+
+● sindresorhus/awesome  覆盖所有计算机相关资源
+● EbookFoundation/free-programming-books  免费电子书籍集合
+● MaximAbramchuck/awesome-interview-questions  面试问题精选
+● Kickball/awesome-selfhosted  可以在本地搭建的网络服务和 Web 应用列表
+● lukasz-madon/awesome-remote-job  远程工作相关及资源
+
+面试 / 刷题
+
+● CyC2018/CS-Notes  技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+● doocs/advanced-java  后台工程师进阶知识扫盲，涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+● geekxh/hello-algorithm  图解算法题典, 目前共完成 105 道 高频面试算法题目，全部采用漫画图解的方式
+● fuzhengwei/CodeGuide  Java 程序员面试知识，偏实战，带源码分析。
+● haizlin/fe-interview  前端面试题库。面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！
+● labuladong/fucking-algorithm  本仓库总共 60 多篇原创文章，都是基于 LeetCode 的题目，涵盖了所有题型和技巧
+● TheAlgorithms/Java  Java 实现的各种算法，用于学习目的
+● TheAlgorithms/Python  Python 实现的各种算法，用于学习目的
+● TheAlgorithms/Javascript  Javascript 实现的各种算法，用于学习目的
+● TheAlgorithms/C  C 实现的各种算法，用于学习目的
+● TheAlgorithms/C-Plus-Plus  C++ 实现的各种算法，用于学习目的
+● TheAlgorithms/Go  Go 实现的各种算法，用于学习目的
+● TheAlgorithms/Ruby  Ruby 实现的各种算法，用于学习目的
+● TheAlgorithms/PHP  PHP 实现的各种算法，用于学习目的
+● TheAlgorithms  其他语言算法版本实现，请点击这里
+
+编程语言
+
+● avelino/awesome-go  Go 语言精选
+● sindresorhus/awesome-nodejs  Node.js 精选
+● fffaraz/awesome-cpp  C++ 精选
+● akullpp/awesome-java  Java 精选
+● markets/awesome-ruby  Ruby 精选
+● vinta/awesome-python  Python 精选
+● ziadoz/awesome-php  PHP 精选
+
+学习 / 提升
+
+● 30-seconds/30-seconds-of-code  JavaScript 代码片段精选。目前已新增 Python、PHP、C#、Go 等其他编程语言
+● tiimgreen/github-cheat-sheet  Git & Github 使用秘籍
+● iluwatar/java-design-patterns  Java 设计模式
+● binhnguyennus/awesome-scalability  大型系统架构设计模式
+● PKUanonym/REKCARC-TSC-UHT  清华大学计算机系课程攻略
+● QSCTech/zju-icicles  浙江大学课程攻略共享计划
+
+计算机科学 / 机器学习
+
+● ossu/computer-science  计算机科学自学教程
+● prakhar1989/awesome-courses  计算机科学学习教程
+● ChristosChristofidis/awesome-deep-learning  深度学习相关资源精选
+● ujjwalkarn/Machine-Learning-Tutorials  机器学习、深度学习教程
+
+工具 / 应用
+
+● jaywcjlove/awesome-mac  Mac 相关的应用程序、软件以及工具精选
+● herrbischoff/awesome-macos-command-line  Mac 系统终端常用命令及工具精选
+● alebcay/awesome-shell  Shell 终端下的相关工具 & 资源
+● luongvo209/Awesome-Linux-Software  Linux 下相关软件 & 资源
+
+前端开发
+
+● dypsilon/frontend-dev-bookmarks  前端开发相关资源精选
+● brillout/awesome-react-components  React 组件精选
+● AllThingsSmitty/css-protips  一系列 CSS 技巧，提升你的 CSS 技能
+
+移动开发
+
+● jondot/awesome-react-native  React Native 精选
+● matteocrippa/awesome-swift  Swift 精选
+
+桌面开发
+
+● jsindresorhus/awesome-electron  Electron 精选
+● serhii-londar/open-source-mac-os-apps  Mac 上的开源 App 精选
+
