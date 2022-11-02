@@ -1,3 +1,6 @@
+# github加速神器（亲测有效）
+简介：github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
+项目地址：：https://github.com/dotnetcore/FastGithub
 
 # 2022最火AIGC_Ai绘画资源汇总
 1、really nice的AI绘画资源汇总：<br />[https://github.com/hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
