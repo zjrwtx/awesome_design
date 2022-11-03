@@ -16,3 +16,10 @@
 
 6、图片转文字（反向破解各种prompt）：[https://huggingface.co/spaces/pharma/CLIP-Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)
 
+7、stableboost.
+
+简介：给AI一个提示词，一次性出200张图；Stableboost每个月可白嫖500分的免费额度使用；可操作性强，交互界面做得挺好
+
+网站地址：https://stableboost.ai/images
+
+相关文章分析：https://mp.weixin.qq.com/s/qGoudh-fgoBd-EKYv8SgsA
